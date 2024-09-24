@@ -2,6 +2,8 @@
 
 Este sistema es una aplicación web dedicada a la administración de pacientes, recetas médicas y retiros de medicamentos en una farmacia. Permite gestionar las recetas médicas de los pacientes, registrar y gestionar retiros, y notificar a los operadores cuando un paciente tiene retiros próximos a vencer.
 
+![image](https://github.com/user-attachments/assets/6df3f44f-596c-4700-b81c-a95885fbf60b)
+
 ## **Funcionalidades**
 
 ### 1. **Gestión de Pacientes**
